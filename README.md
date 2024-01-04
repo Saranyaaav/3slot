@@ -219,4 +219,6 @@ I
 ![Alt text](<Screenshot 2023-11-17 104416.png>)
 
 ## RESULT
+___
 The program for creating slot timetable using basic HTML tags is executed successfully.
+___
